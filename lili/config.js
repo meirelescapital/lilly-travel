@@ -1,3 +1,2 @@
-// Preencha com os dados do Supabase (passo a passo em "Lilly - Ligar na nuvem.dc.html").
-// Enquanto estiver vazio, site e painel funcionam só neste aparelho.
-window.LILLY_CFG = { url: "", chave: "" };
+// Dados do Supabase da Lilly Travel (chave pública — pode ficar no site)
+window.LILLY_CFG = { url: "https://rohrznmjhqdnujttghfg.supabase.co", chave: "sb_publishable_vxsFPhNan07ICsN0VRd-lw_TUjSxkWJ" };
